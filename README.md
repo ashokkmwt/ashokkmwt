@@ -1,3 +1,6 @@
 - Hi, I’m Ashok Kumawat.
 - Front-End Web Developer.
 - Working with JavaScript and ReactJS.
+- Lookingn for an opportunity.
+- Visit my portfolio - https://devashok.netlify.app/
+- Mail me - sendtoashokkumawat@gmail.com
